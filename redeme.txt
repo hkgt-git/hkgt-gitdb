@@ -3,3 +3,4 @@ Git is free software
 Git is free software
 Git has a indx stage
 Git has a indx
+a indx
